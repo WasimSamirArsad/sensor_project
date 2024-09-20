@@ -11,4 +11,5 @@ MONGO_DB_URL="mongodb+srv://wasim:wasim@cluster0.xwvl1.mongodb.net/?retryWrites=
 MODEL_FILE_NAME="model"
 MODEL_FILE_EXTENSION=".pkl"
 
+artifact_folder="artifacts"
 
